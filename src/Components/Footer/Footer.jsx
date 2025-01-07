@@ -42,7 +42,7 @@ const Footer = () => {
             +91 9072226006
           </p>
           <a 
-      href="https://www.instagram.com/drive.india" // Replace with your Instagram URL
+      href="https://www.instagram.com/driveway.in" 
       target="_blank" 
       rel="noopener noreferrer"
       className="text-[white] flex gap-[5px] items-center sm-max:gap-[10px] sm-max:text-[15px] hover:underline"
