@@ -1,0 +1,30 @@
+.meth-hero {
+    width: 100%;
+    height: 50vh;
+  
+    background: linear-gradient(rgba(0, 0, 0, 0.546), rgba(0, 0, 0, 0.53)),
+      url("/src/assets/car.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+  }
+  @media (max-width: 1024px) {
+    .meth-hero {
+      width: 100%;
+      height: 40vh;
+    }
+  }
+  @media (max-width: 768px) {
+    .meth-hero {
+      width: 100%;
+      height: 40vh;
+    }
+  }
+  @media (max-width: 640px) {
+    .meth-hero {
+      width: 100%;
+      height: 40vh;
+    }
+  }
+  

@@ -1,0 +1,46 @@
+header {
+  max-width: 1380px !important;
+}
+.bg-transparent {
+  background-color: transparent !important;
+}
+
+/* Navbar.css */
+.fixed {
+  width: 100%;
+  z-index: 50;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+.navbar-height {
+}
+
+.navbar-height.scrolled {
+  height: 60px; /* Height when scrolled */
+}
+
+.bg-transparent {
+  background-color: transparent;
+}
+
+.bg-blue-600 {
+  background-color: #1e3a8a;
+}
+
+.shadow-lg {
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.text-white {
+  color: white;
+}
+@media (max-width: 640px) {
+  .shanu {
+    color:orange ;
+  }
+  .shanu.scrolled {
+    color:red !important;
+  } 
+  .navbar-height.scrolled {
+    height: 20px; /* Height when scrolled */
+  }
+}

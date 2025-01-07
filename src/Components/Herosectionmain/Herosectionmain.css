@@ -1,0 +1,17 @@
+.heromain {
+  width: 100%;
+  height: 100vh;
+
+  background: linear-gradient(rgba(0, 0, 0, 0.833), rgba(0, 0, 0, 0.778)),
+    url("/src/assets/step2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+@media (max-width: 640px) {
+  .heromain  {
+    width: 100%;
+    height: 100vh;
+  }
+}
