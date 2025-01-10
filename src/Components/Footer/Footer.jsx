@@ -50,7 +50,7 @@ const Footer = () => {
       <span>
         <FaInstagram />
       </span>
-      drive.india
+      drive.in
     </a>
         </div>
     
