@@ -55,7 +55,7 @@ const Herosecond = () => {
                 <h2 className="text-[18px] text-[gray] leading-[30px] sm-max:text-[16px]">
                   Call Us anytime
                 </h2>
-                <h1 className="text-[22px] text-[#0a2343] sm-max:text-[18px]">+91 9072226006</h1>
+                <h1 className="text-[22px] text-[#0a2343] sm-max:text-[18px]">+919072226006</h1>
               </div>
             </div>
           </div>

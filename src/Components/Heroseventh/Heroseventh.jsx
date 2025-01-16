@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import image from "../../assets/1.jpg";
-import image1 from "../../assets/2 (3).jpg";
-import image2 from "../../assets/3.jpg";
-import image3 from "../../assets/kuttan.jpg";
-import image4 from "../../assets/salim.jpg";
+import image from "../../assets/gal1.jpg";
+import image1 from "../../assets/gal2.webp";
+import image2 from "../../assets/gal3.jpg";
+import image3 from "../../assets/gal4.jpg";
+import image4 from "../../assets/gal5.jpg";
 import { IoArrowForwardCircleOutline } from "react-icons/io5";
 import './Heroseventh.css'
 

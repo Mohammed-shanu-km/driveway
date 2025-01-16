@@ -1,9 +1,15 @@
 import React from "react";
-import gal1 from '../../assets/1.jpg'
-import gal2 from '../../assets/2 (3).jpg'
-import gal3 from '../../assets/3.jpg'
-import gal4 from '../../assets/car.jpg'
-import gal5 from '../../assets/1.jpg'
+import gal1 from '../../assets/gal1.jpg'
+import gal2 from '../../assets/gal2.webp'
+import gal3 from '../../assets/gal3.jpg'
+import gal4 from '../../assets/gal4.jpg'
+import gal5 from '../../assets/gal5.jpg'
+import gal6 from '../../assets/gal6.jpeg'
+import gal7 from '../../assets/gal7.jpg'
+import gal8 from '../../assets/gal8.webp'
+import gal9 from '../../assets/gal9.jpg'
+import gal10 from '../../assets/gal10.jpg'
+
 
 const Gallersecond = () => {
   return (
@@ -22,16 +28,22 @@ const Gallersecond = () => {
           <img className="h-full w-full object-cover" src={gal4} alt="" />
         </div>
         <div className="h-[320px] w-full ">
-          <img className="h-full w-full object-cover" src={gal1} alt="" />
+          <img className="h-full w-full object-cover" src={gal5} alt="" />
         </div>
         <div className="h-[320px] w-full ">
-          <img className="h-full w-full object-cover" src={gal2} alt="" />
+          <img className="h-full w-full object-cover" src={gal6} alt="" />
         </div>
         <div className="h-[320px] w-full ">
-          <img className="h-full w-full object-cover" src={gal2} alt="" />
+          <img className="h-full w-full object-cover" src={gal7} alt="" />
         </div>
         <div className="h-[320px] w-full ">
-          <img className="h-full w-full object-cover" src={gal4} alt="" />
+          <img className="h-full w-full object-cover" src={gal8} alt="" />
+        </div>
+        <div className="h-[320px] w-full ">
+          <img className="h-full w-full object-cover" src={gal9} alt="" />
+        </div>
+        <div className="h-[320px] w-full ">
+          <img className="h-full w-full object-cover" src={gal10} alt="" />
         </div>
        
        

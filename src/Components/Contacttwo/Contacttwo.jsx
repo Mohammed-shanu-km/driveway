@@ -59,7 +59,7 @@ const Contacttwo = () => {
     }
 
     const result = encodeURIComponent(data);
-    window.open(`https://wa.me/+91 9072226006?text=${result}`);
+    window.open(`https://wa.me/+919072226006?text=${result}`);
   };
 
   return (
@@ -82,7 +82,7 @@ const Contacttwo = () => {
                     Call Us
                   </h2>
                   <h2 className="text-[gray] text-[16px] font-normal leading-6 sm-max:text-[14px]">
-                  +91 9072226006
+                  +919072226006
                   </h2>
                 </div>
               </div>

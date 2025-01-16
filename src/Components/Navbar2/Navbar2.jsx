@@ -11,6 +11,7 @@ import {
 import { Link, useLocation } from "react-router-dom";
 import "./Navbar.css";
 import logo from "../../assets/new.svg";
+import logo1 from "../../assets/bsoft.svg";
 
 import { FaPhoneAlt } from "react-icons/fa";
 
@@ -50,8 +51,9 @@ export default function Navbar2() {
             isScrolled ? "text-black" : "text-red"
           }`}
         />
-        <NavbarBrand>
-          <img className="h-[120px] w-[120px]" src={logo} alt="" />
+        <NavbarBrand className="flex items-center gap-[5px]">
+          <img className="h-[40px] w-[40px] sm-max:h-[30px] sm-max:w-[30px]" src={logo1} alt="" />
+          <img className="h-[120px] w-[120px] sm-max:h-[80px] sm-max:w-[80px]" src={logo} alt="" />
         </NavbarBrand>
       </NavbarContent>
 
@@ -76,7 +78,9 @@ export default function Navbar2() {
       <NavbarContent className="flex !justify-end md-max:hidden md-small:hidden sm-max:hidden ">
         <div className="flex !justify-end ">
           <div className="flex gap-[15px] items-center">
-            <div><FaPhoneAlt className="text-[30px] text-[#e7492c]" /></div>
+            <div>
+              <FaPhoneAlt className="text-[30px] text-[#e7492c]" />
+            </div>
             <div className="flex flex-col gap-[5px]">
               <h1
                 className={`text-[14px] ${
@@ -90,7 +94,7 @@ export default function Navbar2() {
                   isScrolled ? "text-black" : "text-[#ffffffbb]"
                 }`}
               >
-             +91 9072226006
+                +919072226006
               </h1>
             </div>
           </div>
