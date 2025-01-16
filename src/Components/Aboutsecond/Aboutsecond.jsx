@@ -52,32 +52,8 @@ const Aboutsecond = () => {
             solutions.
           </p>
         </div>
-        <div className="mt-[20px]">
-          <p className="text-[16px] text-[gray] leading-[30px]">
-            Driveway Car Wash is a green company specializing in the latest
-            waterless car washing technology, serving the Middle East and India.
-            This innovative concept is designed for car owners who use idle
-            parking time at shopping malls, government organizations, villas,
-            apartments, and other parking areas during their daily activities.
-            Waterless car washing is a revolutionary idea for 21st-century
-            vehicle owners. Driveway Car Wash brings affordable, luxury car wash
-            services directly to you, redefining traditional car washing
-            experiences with sustainable solutions.
-          </p>
-        </div>
-        <div className="mt-[20px]">
-          <p className="text-[16px] text-[gray] leading-[30px]">
-            Driveway Car Wash is a green company specializing in the latest
-            technology of waterless car washing services in the Middle East and
-            India. This concept is developed for car owners who use idle parking
-            time at shopping malls, government organizations, villas,
-            apartments, and parking areas during their daily activities.
-            Waterless car wash is a revolutionary new idea for 21st-century
-            vehicle owners. Driveway Car Wash brings affordable luxury car wash
-            services directly to you, redefining traditional car wash
-            experiences with sustainable solutions.
-          </p>
-        </div>
+       
+       
       </div>
     </div>
   );
