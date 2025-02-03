@@ -20,7 +20,7 @@ const Herosectionmain = () => {
           </p>
           <div>
             <Link to="/about">
-              <button className="h-[50px] w-[180px]  bg-[#e7492c] hover:border-[#e7492c  ] text-[white]  mt-[30px] sm-max:w-[140px] sm-max:text-[14px]">
+              <button className="h-[50px] w-[180px]  bg-[#ff5603] hover:border-[#e7492c  ] text-[white]  mt-[30px] sm-max:w-[140px] sm-max:text-[14px]">
                 Explore More
               </button>
             </Link>

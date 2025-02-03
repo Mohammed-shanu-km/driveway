@@ -12,8 +12,8 @@ const Herothirdpage = () => {
   return (
     <div className="herothird  w-full px-[100px]  py-[50px] md-max:px-[30px] md-small:px-[20px] bg-[#edf2f6] sm-max:px-[20px] ">
       <div className="flex items-center justify-center flex-col gap-[15px]">
-        <h1 className="text-[20px] text-[#e7492c] leading-[40px] text-center sm-max:text-[18px]">
-          DRIVEAWAY
+        <h1 className="text-[20px] text-[#ff5603] leading-[40px] text-center sm-max:text-[18px]">
+          DRIVEWAY
           <br />
           <span className="text-[40px] font-[600] text-[#0a2343] sm-max:text-[28px] sm-max:leading-[30px]">
             Save Water And Save Earth
@@ -32,7 +32,7 @@ const Herothirdpage = () => {
             </div>
             <div className="flex items-center justify-center">
               <div className="h-[100px] w-[100px] bg-[white] rounded-[50px] flex items-center justify-center absolute">
-                <MdLocalCarWash className="text-[40px] text-[#e7492c]" />
+                <MdLocalCarWash className="text-[40px] text-[#ff5603]" />
               </div>
             </div>
           </div>
@@ -57,7 +57,7 @@ const Herothirdpage = () => {
             </div>
             <div className="flex items-center justify-center">
               <div className="h-[100px] w-[100px] bg-[white] rounded-[50px] flex items-center justify-center absolute">
-                <TbCarSuv className="text-[40px] text-[#e7492c]" />
+                <TbCarSuv className="text-[40px] text-[#ff5603]" />
               </div>
             </div>
           </div>
@@ -82,7 +82,7 @@ const Herothirdpage = () => {
             </div>
             <div className="flex items-center justify-center">
               <div className="h-[100px] w-[100px] bg-[white] rounded-[50px] flex items-center justify-center absolute">
-                <FaCarSide className="text-[40px] text-[#e7492c]" />
+                <FaCarSide className="text-[40px] text-[#ff5603]" />
               </div>
             </div>
           </div>

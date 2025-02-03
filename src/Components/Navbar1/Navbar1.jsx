@@ -7,7 +7,7 @@ import { FaInstagram, FaWhatsapp } from "react-icons/fa";
 
 const Navbar1 = () => {
   return (
-    <div className="backgroundImage h-[auto] px-[100px] w-full bg-[#e7492c] flex items-center justify-between p-[10px] sm-max:hidden">
+    <div className="backgroundImage h-[auto] px-[100px] w-full bg-[#ff5603] flex items-center justify-between p-[10px] sm-max:hidden">
       <div className="flex items-center gap-[20px]">
         <div className="flex items-center gap-[10px]">
           <div>

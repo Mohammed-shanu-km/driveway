@@ -13,7 +13,7 @@ const Herofifthpage = () => {
       </div>
       <div className="w-[50%] pr-[100px] pt-[80px] md-small:w-[100%] md-small:pr-[20px] md-small:pl-[20px] md-small:pt-[10px] sm-max:w-[100%] sm-max:pt-[0px] sm-max:p-[20px] ">
         <div className="flex flex-col gap-[20px] sm-max:gap-[0px]">
-          <h1 className="text-[20px] text-[#e7492c] leading-[40px] sm-max:text-[18px]">
+          <h1 className="text-[20px] text-[#ff5603] leading-[40px] sm-max:text-[18px]">
             Our Service Benefits
             <br />
             <span className="text-[40px] font-[600] text-[#0a2343] sm-max:text-[28px] sm-max:leading-[28px] sm-max:text-center">
@@ -30,37 +30,37 @@ const Herofifthpage = () => {
           </p>
           <div className="flex flex-col gap-[15px] mt-[20px] ">
             <div className="w-full h-[50px] shadow-md p-[20px] bg-[white]  flex items-center gap-[10px] ">
-              <IoCheckmarkDoneCircle className="text-[23px] text-[#e7492c]" />
+              <IoCheckmarkDoneCircle className="text-[23px] text-[#ff5603]" />
               <h1 className="text-[16px] font-[500] text-[#123332] sm-max:text-[16px]">
               Made in German Technology
               </h1>
             </div>
             <div className="w-full h-[50px] shadow-md p-[20px] bg-[white]  flex items-center gap-[10px] ">
-              <IoCheckmarkDoneCircle className="text-[23px] text-[#e7492c]" />
+              <IoCheckmarkDoneCircle className="text-[23px] text-[#ff5603]" />
               <h1 className="text-[16px] font-[500] text-[#123332] sm-max:text-[16px]">
               Light Weigh
               </h1>
             </div>
             <div className="w-full h-[50px] shadow-md p-[20px] bg-[white]  flex items-center gap-[10px] ">
-              <IoCheckmarkDoneCircle className="text-[23px] text-[#e7492c]" />
+              <IoCheckmarkDoneCircle className="text-[23px] text-[#ff5603]" />
               <h1 className="text-[16px] font-[500] text-[#123332] sm-max:text-[16px]">
               Futuristic Designing
               </h1>
             </div>
             <div className="w-full h-[50px] shadow-md p-[20px] bg-[white]  flex items-center gap-[10px] ">
-              <IoCheckmarkDoneCircle className="text-[23px] text-[#e7492c]" />
+              <IoCheckmarkDoneCircle className="text-[23px] text-[#ff5603]" />
               <h1 className="text-[16px] font-[500] text-[#123332] sm-max:text-[16px]">
               Non-marking wheels
               </h1>
             </div>
             <div className="w-full h-[50px] shadow-md p-[20px] bg-[white]  flex items-center gap-[10px] ">
-              <IoCheckmarkDoneCircle className="text-[23px] text-[#e7492c]" />
+              <IoCheckmarkDoneCircle className="text-[23px] text-[#ff5603]" />
               <h1 className="text-[16px] font-[500] text-[#123332] sm-max:text-[16px]">
               Environment friendly
               </h1>
             </div>
             <div className="w-full h-[50px] shadow-md p-[20px] bg-[white]  flex items-center gap-[10px] ">
-              <IoCheckmarkDoneCircle className="text-[23px] text-[#e7492c]" />
+              <IoCheckmarkDoneCircle className="text-[23px] text-[#ff5603]" />
               <h1 className="text-[16px] font-[500] text-[#123332] sm-max:text-[16px]">
               Zero percent water spillage 
               </h1>

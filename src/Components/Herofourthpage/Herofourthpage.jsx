@@ -4,7 +4,7 @@ import { IoArrowForwardCircleOutline } from "react-icons/io5";
 const Herofourthpage = () => {
   return (
     <div className="px-[100px] py-[80px] sm-max:px-[20px] sm-max:py-[50px] ">
-      <div className="h-[auto] w-full bg-[#e7492c] p-[50px]">
+      <div className="h-[auto] w-full bg-[#ff5603] p-[50px]">
         <div className="flex flex-col gap-[50px]">
           <h1 className="text-[20px] text-[white] text-center leading-[40px] sm-max:text-[18px]">
             What We’re Offering

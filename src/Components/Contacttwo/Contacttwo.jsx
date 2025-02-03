@@ -59,7 +59,7 @@ const Contacttwo = () => {
     }
 
     const result = encodeURIComponent(data);
-    window.open(`https://wa.me/+919072226006?text=${result}`);
+    window.open(`https://wa.me/+91 907 222 6006?text=${result}`);
   };
 
   return (
@@ -76,20 +76,20 @@ const Contacttwo = () => {
           <div className="flex flex-col gap-[30px] mt-[50px] sm-max:gap-[20px] sm-max:mt-[30px]">
             <div className="w-full h-[auto] p-[20px] items-center flex rounded-[10px] bg-[white] sm-max:p-[10px]">
               <div className="flex gap-[20px] items-center">
-                <IoMdContact className="text-[50px] text-[#e7492c] sm-max:text-[30px]" />
+                <IoMdContact className="text-[50px] text-[#ff5603] sm-max:text-[30px]" />
                 <div className="flex flex-col gap-[10px] sm-max:gap-[5px]">
                   <h2 className="text-[20px] font-[600] sm-max:text-[18px]">
                     Call Us
                   </h2>
                   <h2 className="text-[gray] text-[16px] font-normal leading-6 sm-max:text-[14px]">
-                  +919072226006
+                  +91907 222 6006
                   </h2>
                 </div>
               </div>
             </div>
             <div className="w-full h-[auto] p-[20px] items-center flex rounded-[10px] bg-[white] sm-max:p-[10px]">
               <div className="flex gap-[20px] items-center">
-                <MdEmail className="text-[50px] text-[#e7492c] sm-max:text-[30px]" />
+                <MdEmail className="text-[50px] text-[#ff5603] sm-max:text-[30px]" />
                 <div className="flex flex-col gap-[10px]">
                   <h2 className="text-[20px] font-[600] sm-max:text-[18px]">
                     Email Us
@@ -102,7 +102,7 @@ const Contacttwo = () => {
             </div>
             <div className="w-full h-[auto] p-[20px] items-center flex rounded-[10px] bg-[white] sm-max:p-[10px]">
               <div className="flex gap-[20px] items-center">
-                <FaLocationDot className="text-[50px] text-[#e7492c] sm-max:text-[30px]" />
+                <FaLocationDot className="text-[50px] text-[#ff5603] sm-max:text-[30px]" />
                 <div className="flex flex-col gap-[10px]">
                   <h2 className="text-[20px] font-[600] sm-max:text-[18px]">
                     Location
@@ -133,7 +133,7 @@ const Contacttwo = () => {
                   placeholder="Full Name"
                   className="w-full p-[10px] border border-gray-300 rounded-[5px]"
                 />
-                {errors.fullName && <span className="text-red-500">{errors.fullName}</span>}
+                {errors.fullName && <span className="text-[#ff5603]">{errors.fullName}</span>}
                 
                 <input
                   type="text"
@@ -172,7 +172,7 @@ const Contacttwo = () => {
                 
                 <button
                   type="submit"
-                  className="w-full p-[10px] bg-[#e7492c] text-white rounded-[5px]"
+                  className="w-full p-[10px] bg-[#ff5603] text-white rounded-[5px]"
                 >
                   Submit
                 </button>

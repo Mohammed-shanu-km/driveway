@@ -14,7 +14,7 @@ const Methherosection = () => {
         <div className="h-[50px] w-[200px] bg-[white] absolute bottom-0 right-12 flex items-center justify-center">
           <Link to={"/"}>
             <h2 className="text-[16px] text-[black] sm-max:text-[16px]">
-              Home <span className="text-[#e7492c]">/ Methodology</span>
+              Home <span className="text-[#ff5603]">/ Methodology</span>
             </h2>
           </Link>
         </div>

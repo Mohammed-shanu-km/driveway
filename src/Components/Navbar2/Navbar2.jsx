@@ -66,7 +66,7 @@ export default function Navbar2() {
           <NavbarItem key={item.name}>
             <Link
               to={item.path}
-              className={`text-[15px] hover:text-[#e7492c] ${
+              className={`text-[15px] hover:text-[#ff5603] ${
                 isScrolled ? "text-black" : "text-white"
               } ${location.pathname === item.path ? "font-bold" : ""}`}
             >
@@ -79,7 +79,7 @@ export default function Navbar2() {
         <div className="flex !justify-end ">
           <div className="flex gap-[15px] items-center">
             <div>
-              <FaPhoneAlt className="text-[30px] text-[#e7492c]" />
+              <FaPhoneAlt className="text-[30px] text-[#ff5603]" />
             </div>
             <div className="flex flex-col gap-[5px]">
               <h1
@@ -94,7 +94,7 @@ export default function Navbar2() {
                   isScrolled ? "text-black" : "text-[#ffffffbb]"
                 }`}
               >
-                +919072226006
+                +91 907 222 6006
               </h1>
             </div>
           </div>

@@ -14,7 +14,7 @@ const Contacthero = () => {
       <div className="h-[50px] w-[200px] bg-[white] absolute bottom-0 right-12 flex items-center justify-center">
         <Link to={"/"}>
           <h2 className="text-[16px] text-[black] sm-max:text-[15px]">
-            Home <span className="text-[#e7492c]">/ Contact Us</span>
+            Home <span className="text-[#ff5603]">/ Contact Us</span>
           </h2>
         </Link>
       </div>

@@ -38,7 +38,7 @@ const Footer = () => {
             <span>
               <MdOutlinePhone />
             </span>
-            +919072226006
+            +91907 222 6006
           </p>
           <a
             href="https://www.instagram.com/driveway.in"

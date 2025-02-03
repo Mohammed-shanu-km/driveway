@@ -43,7 +43,7 @@ const Heroseventh = () => {
           <div className="flex items-center justify-center mt-[10px]">
             <button
               onClick={handleReadMore}
-              className="px-6 py-3 bg-[#e7492c] text-white animate__animated animate__fadeIn animate__delay-2s flex items-center gap-[5px]"
+              className="px-6 py-3 bg-[#ff5603] text-white animate__animated animate__fadeIn animate__delay-2s flex items-center gap-[5px]"
             >
               Read More{" "}
               <IoArrowForwardCircleOutline className="text-[20px] text-[white]" />

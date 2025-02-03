@@ -13,7 +13,7 @@ const Methsecond = () => {
           <div className="h-[300px] w-full bg-[#f3f3f3]">
             <div className="h-[200px] w-full relative ">
               <img className="h-full w-full object-cover" src={setp1} alt="" />
-              <div className="h-[40px] w-[100px] bg-[#e7492c] absolute bottom-0 left-5 flex items-center justify-center">
+              <div className="h-[40px] w-[100px] bg-[#ff5603] absolute bottom-0 left-5 flex items-center justify-center">
                 <h2 className="text-[16px] font-[600] text-[white]">Step-1</h2>
               </div>
             </div>
@@ -27,7 +27,7 @@ const Methsecond = () => {
           <div className="h-[300px] w-full bg-[#f3f3f3]">
             <div className="h-[200px] w-full relative ">
               <img className="h-full w-full object-cover" src={setp2} alt="" />
-              <div className="h-[40px] w-[100px] bg-[#e7492c] absolute bottom-0 left-5 flex items-center justify-center">
+              <div className="h-[40px] w-[100px] bg-[#ff5603] absolute bottom-0 left-5 flex items-center justify-center">
                 <h2 className="text-[16px] font-[600] text-[white]">Step-2</h2>
               </div>
             </div>
@@ -41,7 +41,7 @@ const Methsecond = () => {
           <div className="h-[300px] w-full bg-[#f3f3f3]">
             <div className="h-[200px] w-full relative ">
               <img className="h-full w-full object-cover" src={setp3} alt="" />
-              <div className="h-[40px] w-[100px] bg-[#e7492c] absolute bottom-0 left-5 flex items-center justify-center">
+              <div className="h-[40px] w-[100px] bg-[#ff5603] absolute bottom-0 left-5 flex items-center justify-center">
                 <h2 className="text-[16px] font-[600] text-[white]">Step-3</h2>
               </div>
             </div>
@@ -55,7 +55,7 @@ const Methsecond = () => {
           <div className="h-[300px] w-full bg-[#f3f3f3]">
             <div className="h-[200px] w-full relative ">
               <img className="h-full w-full object-cover" src={setp4} alt="" />
-              <div className="h-[40px] w-[100px] bg-[#e7492c] absolute bottom-0 left-5 flex items-center justify-center">
+              <div className="h-[40px] w-[100px] bg-[#ff5603] absolute bottom-0 left-5 flex items-center justify-center">
                 <h2 className="text-[16px] font-[600] text-[white]">Step-4</h2>
               </div>
             </div>
@@ -69,7 +69,7 @@ const Methsecond = () => {
           <div className="h-[300px] w-full bg-[#f3f3f3]">
             <div className="h-[200px] w-full relative ">
               <img className="h-full w-full object-cover" src={setp5} alt="" />
-              <div className="h-[40px] w-[100px] bg-[#e7492c] absolute bottom-0 left-5 flex items-center justify-center">
+              <div className="h-[40px] w-[100px] bg-[#ff5603] absolute bottom-0 left-5 flex items-center justify-center">
                 <h2 className="text-[16px] font-[600] text-[white]">Step-5</h2>
               </div>
             </div>
@@ -82,7 +82,7 @@ const Methsecond = () => {
           <div className="h-[300px] w-full bg-[#f3f3f3]">
             <div className="h-[200px] w-full relative ">
               <img className="h-full w-full object-cover" src={setp5} alt="" />
-              <div className="h-[40px] w-[100px] bg-[#e7492c] absolute bottom-0 left-5 flex items-center justify-center">
+              <div className="h-[40px] w-[100px] bg-[#ff5603] absolute bottom-0 left-5 flex items-center justify-center">
                 <h2 className="text-[16px] font-[600] text-[white]">Step-6</h2>
               </div>
             </div>

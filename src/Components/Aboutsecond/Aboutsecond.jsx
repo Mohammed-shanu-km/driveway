@@ -24,7 +24,7 @@ const Aboutsecond = () => {
       <div className="mt-[50px] sm-max:mt-[30px]">
         <div className="flex items-center justify-between md-small:flex-col md-small:items-start  sm-max:flex-col sm-max:items-start">
           <div>
-            <h1 className="text-[20px] text-[#e7492c] leading-[40px] sm-max:text-[18px]">
+            <h1 className="text-[20px] text-[#ff5603] leading-[40px] sm-max:text-[18px]">
               DRIVEWAY
               <br />
               <span className="text-[40px] font-[600] text-[#0a2343] sm-max:text-[28px]">
@@ -33,7 +33,7 @@ const Aboutsecond = () => {
             </h1>
           </div>
           <div>
-            <h2 className="text-[24px] font-[600] text-[#e7492c] sm-max:text-[20px]">
+            <h2 className="text-[24px] font-[600] text-[#ff5603] sm-max:text-[20px]">
               The Revolutionary Mobile Car Wash Concept
             </h2>
           </div>
