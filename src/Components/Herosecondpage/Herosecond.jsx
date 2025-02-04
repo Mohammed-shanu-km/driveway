@@ -5,6 +5,8 @@ import { FiPhoneCall } from "react-icons/fi";
 import image from "../../assets/image1.jpg";
 import { useRef } from "react";
 import { useInView } from "framer-motion";
+import { Link } from "react-router-dom";
+import image1 from '../../assets/salim.svg'
 
 const Herosecond = () => {
   return (
@@ -12,14 +14,17 @@ const Herosecond = () => {
       <div className="w-[50%] md-small:w-[100%] sm-max:w-[100%]">
         <div className="flex flex-col gap-[25px] sm-max:gap-[10px]">
           <h1 className="text-[20px] text-[#ff5603] leading-[40px] sm-max:text-[18px]">
-            DRIVEWAY
-            <br className="" />
+       
+          <div>
+          <img className="h-[50px] w-[auto] ml-[-10px] object-cover" src={image1} alt=""/>
+          </div>
             <span className="text-[40px] font-[600] text-[#0a2343] sm-max:text-[28px]">
               Who We Are
             </span>{" "}
           </h1>
+         
 
-          <p className="text-[16px] text-[gray] leading-[30px] sm-max:text-[15px]">
+          <p className="text-[16px] text-[gray] mt-[-20px] leading-[30px] sm-max:text-[15px]">
             Driveway car wash is a Green company specialized in the latest
             technology of waterless car washing services in the Middle East &
             India. This concept is developed for car owners while using idle
@@ -42,10 +47,12 @@ const Herosecond = () => {
           </div>
           <div className="w-full flex gap-[20px] items-center sm-max:flex-col sm-max:items-start sm-max:gap-[30px]">
             <div>
+              <Link to="/about">
               <button className="px-6 py-3  bg-[#ff5603] text-white  animate__animated animate__fadeIn animate__delay-2s flex items-center gap-[5px] sm-max:px-4 sm-max:py-2 sm-max:text-[15px]">
                 Read More{" "}
                 <IoArrowForwardCircleOutline className="text-[20px] text-[white]" />
               </button>
+              </Link>
             </div>
             <div className="flex gap-[10px] ">
               <div className="h-[70px] w-[70px] bg-[#80808070] rounded-[50px] flex items-center justify-center">
