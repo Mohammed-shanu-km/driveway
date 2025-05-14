@@ -6,6 +6,7 @@ import Methadology from "../Pages/Methadology";
 import Gallery from "../Pages/Gallery";
 import Contactus from "../Pages/Contactus";
 import Watsapp from "../../Watsapp/Watsapp";
+import Clintsection from "../Pages/Clintsection";
 
 const Routing = () => {
   return (
@@ -18,6 +19,7 @@ const Routing = () => {
           <Route path="/meth" element={<Methadology/>} />
           <Route path="/gall" element={<Gallery/>} />
           <Route path="/contact" element={<Contactus/>} />
+          <Route path="/client" element={<Clintsection/>} />
 
         </Routes>
       </Router>
@@ -26,3 +28,4 @@ const Routing = () => {
 };
 
 export default Routing;
+ 

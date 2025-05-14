@@ -24,6 +24,7 @@ export default function Navbar2() {
     { name: "Home", path: "/" },
     { name: "About Us", path: "/about" },
     { name: "Methodology", path: "/meth" },
+    { name: "Clients", path: "/client" },
     { name: "Gallery", path: "/gall" },
     { name: "Contact Us", path: "/contact" },
   ];

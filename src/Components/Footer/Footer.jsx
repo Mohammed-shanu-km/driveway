@@ -16,8 +16,7 @@ const Footer = () => {
         </div>
         <p className="text-[16px] text-[white] leading-[30px] text-center sm-max:text-center sm-max:text-[16px]">
           Driveway CarWash is a Green company specialized in the latest
-          technology of waterless car washing services in the Middle East and
-          India. This concept is designed for car owners to utilize idle parking
+          technology of waterless car washing services in the All India. This concept is designed for car owners to utilize idle parking
           time at shopping malls, government organizations, villas and
           apartments, and parking areas during their daily activities. Waterless
           carwash is a revolutionary new idea for 21st-century vehicle owners.
